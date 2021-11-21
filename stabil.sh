@@ -9,11 +9,11 @@ yellow='\033[33;1m'
 sleep 1
 echo
 toilet -f big -F gay By Rzaa Ajaa
-echo $grenn "==============================="
+echo $purple"==============================="
 echo $yellow"= (+) Author  : Reza Alfauzan ="
-echo $blue "= (+) Youtube : Reja gaming   ="
+echo $green"= (+) Youtube : Reja gaming   ="
 echo $yellow"= (+) Facebook: Rzaa Aja      ="
-echo $blue "==============================="
+echo $green"==============================="
 echo $red"Welcome Brother!"
 echo
 sleep 2
