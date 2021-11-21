@@ -8,26 +8,26 @@ from time import sleep
 os.system("clear")
 os.system("figlet kalkulator")
 tampilan ="""
-===========================================================
-=       (+)Author     : Reza Alfauzan                     =
-=       (+)Github     : https://github.com/GRCR4K3R       =
-=       (+)Youtube    : Reja Gaming                       =
-=       (+)Pesan      : Jangan Recode Mas:)               =
-=       (+)Pesan      : Gua Masih Noob:'(                 =
-=              (+)===  Welcome To Termux ===(+)           =
-===========================================================
-(+)=====================================================(+)
-(+)==================== Jangan Recode Mas ==============(+)
-(+)=====================================================(+)"""
+\033[33;1m=================\033[37;1m==================\033[35;1m========================
+\033[32;1m=       \033[36;1m(+)Author     : \033[32;1mReza Alfauzan                     =
+\033[31;1m=       \033[36;1m(+)Github     : \033[31;1mhttps://github.com/GRCR4K3R       =
+\033[34;1m=       \033[1;91m(+)Youtube    : \033[2;27mReja Gaming                       =
+\033[34;1m=       \033[31;1m(+)Pesan      : \033[1;91mJangan Recode Mas:)               =
+\033[36;1m=       (+)Pesan      : \033[36;1mGua Masih Noob:'(                 =
+\033[32;1m=              \033[36;1m(+)===  \033[31;1mWelcome To Termux \033[36;1m===(+)           =
+\033[36;1m===========================================================
+\033[34;1m(+)=====================================================(+)
+\033[32;1m(+)==================== \033[34;1mJangan Recode Mas \033[32;1m==============(+)
+\033[32;1m(+)\033[36;1m=====================================================\033[32;1m(+)"""
 sleep(0.1)
 print(tampilan)
 print("")
-print("1)Pertambahan")
-print("2)Pengurangan")
-print("3)Perkalian")
-print("4)Pembagian")
-print("_______________________")
-pilih =input("Pilih Salah Satu :")
+print("1)\033[32;1mPertambahan")
+print("2)\033[36;1mPengurangan")
+print("3)\033[34;1mPerkalian")
+print("4)\033[36;1mPembagian")
+print("\033[36;1m__\033[34;1m_______\033[32;1m_______\033[32;1m_______")
+pilih =input("\033[32;1mPilih \033[36;1mSalah \033[32;1mSatu :")
 
 #Data Pertambahan
 if pilih =="1":
