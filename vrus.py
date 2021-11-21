@@ -42,14 +42,14 @@ def menu():
         os.system("figlet Trojan Nih!!")
         os.system("figlet Ini Virus Anjing!")
         logo = """
-\033[32;1m=============================================================
-\033[35;1m=       [+] Author     : Reza Alfauzan               [+]    =
-\033[31;1m=       [+] Github     : https://github.com/GRCR4K3R [+]    =
-\033[1;91m=       [+] Facebook   : Rzaa Ajaa                   [+]    =
-\033[36;1m========[+]==========================================[+]=====
-\033[33;1m====================[+] Jangan Di Recode  [+]================
-\033[36;1m====================[+] Love You Woii<3   [+]================
-\033[31;1m======================[+]===============[+]=================="""
+\033[32;1m=========================================================================
+\033[35;1m=            [+] Author     : Reza Alfauzan               [+]           =
+\033[31;1m=            [+] Github     : https://github.com/GRCR4K3R [+]           =
+\033[1;91m=            [+] Facebook   : Rzaa Ajaa                   [+]           =
+\033[36;1m==============[+]==========================================[+]===========
+\033[33;1m===========================[+] Jangan Di Recode  [+]=====================
+\033[36;1m===========================[+] Love You Woii<3   [+]=====================
+\033[31;1m======================[+] Ini Sama di script sebelah [+]================="""
         print logo
         nomor = raw_input("\033[34;1mMasukkan \033[36;1mNomor \033[33;1mTarget : ") # input untuk si user memasukkan nomornya
         jumlah = int(input("\033[31;1mMasukkan \033[35;1mjumlahnya : ")) # input untuk menyuruh si user memasukkan jumlahnya
