@@ -11,9 +11,9 @@ echo
 toilet -f big -F gay By Rzaa Ajaa
 echo $grenn "==============================="
 echo $yellow"= (+) Author  : Reza Alfauzan ="
-echo $blue  "= (+) Youtube : Reja gaming   ="
+echo $blue "= (+) Youtube : Reja gaming   ="
 echo $yellow"= (+) Facebook: Rzaa Aja      ="
-echo $blue  "==============================="
+echo $blue "==============================="
 echo $red"Welcome Brother!"
 echo
 sleep 2
