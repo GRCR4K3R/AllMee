@@ -1,1 +1,1 @@
-# AllMee
+# Script All Karna gua noob:)
