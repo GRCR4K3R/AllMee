@@ -6,7 +6,27 @@ import requests
 import sys
 import os
 
-def main():
+# nanya
+def nanya():
+         nanya =raw_input("\033[34;1mApakah \033[32;1m anda \033[35;1m ingin \033[36;1matack lagi? \033[36;1m[\033[32;1mY\033[34;1m/\033[35;1mT\033[33;1m] \033[35;1m~\033[33;1m=> ")
+         if nanya =="Y" or nanya =="y":
+                menu()
+         elif nanya =="T" or nanya =="t":
+                auto("\033[35;1mBye \033[32;1mBye :)")
+                time.sleep(1)
+                sys.exit()
+         elif nanya =="" or nanya =='':
+                auto("\033[32;1mJangan \033[35;1msampe \033[36;1mkosong \033[32;1mya")
+                time.sleep(1)
+                nanya()
+         else:
+                auto("\033[32;1mSalah, \033[35;1mMasukkan \033[36;1minput \033[32;1mpilihan \033[36;1mdengan \033[33;1mbenar!")
+                time.sleep(1)
+                nanya()
+
+# menu
+
+def menu():
         os.system('clear')
         os.system('figlet Spam Pesan')
         banner = '''
@@ -43,4 +63,5 @@ def main():
                 print('Gagal Mengirimn:)' + no)
         else:
                 print('\033[35;1mBerhasil \033[33;1mMengirim :' + no)
-main()
+                nanya()
+menu()
