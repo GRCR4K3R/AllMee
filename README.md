@@ -1,7 +1,7 @@
 # Script Aneh?
 <pre><code>
 $pkg install git
-$pkg install python && pkg install python2
+$pkg install python2
 $git clone https://github.com/GRCR4K3R/AllMee
 $cd AllMee
 $python2 install.py
