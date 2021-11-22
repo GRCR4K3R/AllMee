@@ -8,6 +8,7 @@ def bersih():
 def menu():
         print "\t Tools By Reza Alfauzan\n"
         print("1. Wajib update ya!!!")
+        print("2. Info Script.")
         # input
         pilih = input("Masukkan pilihan : ")
         if pilih ==1:
@@ -24,4 +25,11 @@ def menu():
                 os.system("pip2 install requests")
                 os.system("pip2 install mechanize")
                 os.system("pip2 install --upgrade pip")
-menu()
+        if pilih ==2:
+                os.system("figlet Rzaa Ajaa")
+        tampilan = """===============================================
+                      = (+) Reza Yang Buat Scriptnya             (+)=
+                      = (+) Github Gua :GRCR4K3R                 (+)=
+                      = (+) Facebook   :Rzaa Ajaa                (+)=
+                      = (+) Profil     :Stiker Pentol Itu gua!!  (+)=
+                      ==============================================="""
