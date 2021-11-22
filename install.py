@@ -12,6 +12,8 @@ def menu():
         # input
         pilih = input("\033[35;1m==> \033[36;1mMasukkan \033[32;1mpilihan : ")
         if pilih ==1:
+                os.system("clear")
+                os.system("figlet Tunggu/Wait")
                 os.system("pkg update && pkg upgrade")
                 os.system("pkg install nano")
                 os.system("pkg install figlet")
