@@ -1,5 +1,7 @@
 #!/bin/python
 
+# jangan recode Surentot,tekentot,kentot
+
 #module
 import json
 import requests
