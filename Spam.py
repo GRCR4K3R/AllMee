@@ -63,5 +63,5 @@ def menu():
                 print('Gagal Mengirimn:)' + no)
         else:
                 print('\033[35;1mBerhasil \033[33;1mMengirim :' + no)
-                nanya()
+        nanya()
 menu()
