@@ -23,7 +23,7 @@ def nanya():
         if nanya =="Y" or nanya =="y":
                 menu()
         elif nanya =="T" or nanya =="t":
-                auto("\033[35;1mBye \033[32;1mBye :)")
+                auto("\033[35;1mBye \033[32;1mBye \033[33;1m:)")
                 time.sleep(1)
                 sys.exit()
         elif nanya =="" or nanya =='':
