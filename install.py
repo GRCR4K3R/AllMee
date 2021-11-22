@@ -27,7 +27,8 @@ def menu():
                 os.system("pip2 install --upgrade pip")
         if pilih ==2:
                 os.system("figlet Rzaa Ajaa")
-                logo = """===============================================
+                logo = """
+                      ===============================================
                       = (+) Reza Yang Buat Scriptnya             (+)=
                       = (+) Github Gua :GRCR4K3R                 (+)=
                       = (+) Facebook   :Rzaa Ajaa                (+)=
