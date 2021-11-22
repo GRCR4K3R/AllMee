@@ -10,7 +10,7 @@ $cd AllMee
 $python2 install.py
 Lalu Tunggu Prosesnya
 Dan Silahkan pilih
-type python,python2,dan sh
+type python,python2,sh,Dan Bash
 </code></pre>
 <code><pre>
 Nahh Itu Dia Script Saya emang script noob Ya:)
