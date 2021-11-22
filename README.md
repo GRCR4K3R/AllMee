@@ -13,5 +13,5 @@ Dan Silahkan pilih
 type python,python2,sh,Dan Bash
 </code></pre>
 <code><pre>
-Nahh Itu Dia Script Saya emang script noob Ya:)
+Nahh Itu Dia Script Saya yang surentod,tekentod,kentod.emang script saya noob Ya:)
 </pre></code>
