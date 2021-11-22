@@ -8,8 +8,9 @@ def menu():
         print "\t \033[36;1mTools \033[35;1mBy \033[33;1mReza \033[32;1mAlfauzan\n"
         print("\033[32;1m1. \033[36;1mWajib update ya!!!")
         print("\033[32;1m2. \033[36;1mInfo Script.")
+        print("\033[35;1m3. \033[33;1mKeluar\033[31;1m/\033[35;1mexit")
         # input
-        pilih = input("\033[36;1mMasukkan \033[32;1mpilihan : ")
+        pilih = input("\033[35;1m==> \033[36;1mMasukkan \033[32;1mpilihan : ")
         if pilih ==1:
                 os.system("pkg update && pkg upgrade")
                 os.system("pkg install nano")
@@ -36,4 +37,8 @@ def menu():
                       \033[32;1m= (+) \033[36;1mProfil     :Stiker Pentol Itu gua!!  \033[32;1m(+)=
                       ==============================================="""
                 print logo
+        if pilih ==3:
+                os.system("figlet Update Exit..")
+                os.system("figlet Good Byee...")
+                time.sleep(5)
 menu()
