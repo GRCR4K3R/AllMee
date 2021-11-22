@@ -1,4 +1,4 @@
-# Script Aneh?
+# Script Malware && Virus
 <pre><code>
 $pkg install git
 $pkg install python2
