@@ -2,10 +2,9 @@
 
 import os,sys,time
 
-def bersih():
-        os.system("clear")
-
 def menu():
+        os.system("clear"
+        os.system("figlet Update")
         print "\t \033[36;1mTools \033[35;1mBy \033[33;1mReza \033[32;1mAlfauzan\n"
         print("\033[32;1m1. \033[36;1mWajib update ya!!!")
         print("\033[32;1m2. \033[36;1mInfo Script.")
