@@ -17,6 +17,7 @@ def menu():
                 os.system("pkg install toilet")
                 os.system("pkg install ruby")
                 os.system("gem install lolcat")
+                os.system("pkg install python2")
                 os.system("pip install requests")
                 os.system("pip install mechanize")
                 os.system("pip install --upgrade pip")
