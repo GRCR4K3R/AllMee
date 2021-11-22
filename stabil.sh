@@ -25,7 +25,7 @@ echo $cyan"2.)Keluar/Exit."
 echo
 echo $green
 read -p "PilihMana : " bro
-if [ $bro = 1] || [ $bro = 1]
+if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 toilet -f big -F gay Rzaa Ajaa
