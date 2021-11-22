@@ -33,6 +33,6 @@ def menu():
                       = (+) Github Gua :GRCR4K3R                 (+)=
                       = (+) Facebook   :Rzaa Ajaa                (+)=
                       = (+) Profil     :Stiker Pentol Itu gua!!  (+)=
-                      ==================================================="""
+                      ==============================================="""
                 print logo
 menu()
