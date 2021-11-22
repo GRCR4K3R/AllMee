@@ -1,5 +1,7 @@
 #!/bin/py
 
+# Jangan Recode ya TOT!!!!!!
+
 #module
 import os,sys,time,requests
 from time import sleep
