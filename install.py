@@ -21,9 +21,11 @@ def menu():
                 os.system("pkg install python")
                 os.system("pip install requests")
                 os.system("pip install mechanize")
+                os.system("pip install futures")
                 os.system("pip install --upgrade pip")
                 os.system("pip2 install requests")
                 os.system("pip2 install mechanize")
+                os.system("pip2 install futures")
                 os.system("pip2 install --upgrade pip")
         if pilih ==2:
                 os.system("figlet Rzaa Ajaa")
