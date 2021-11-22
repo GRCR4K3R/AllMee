@@ -1,6 +1,6 @@
 #!/bin/python
 
-
+# Jangan recode ngentottt!!!!
 
 # module
 import os
