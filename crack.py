@@ -28,7 +28,7 @@ class Main:
 		self.ips = requests.get("http://13.93.153.143/~rzaalfauzan/myip/").text
 		os.system("clear")
 		print("   ___________________        \n  /  _____/\_   _____/        \n /   \  ___ |    __)          \n \    \_\  \|     \ \033[0;96mGALAXY\033[0;97m        \n  \______  /\___  /__\033[0;96mFACEBOOK\033[0;97m_\n         \/     \/_____/_____/")
-		print(" [*] Author  : Angga Kurniawan") 
+		print(" [*] Author  : Reza Alfauzan") 
 		print(" [*] GitHub  : https://github.com/GRCR4K3R") 
 		print(" [#] -------------------------------------") 
 		print(" [*] FB      : https://fb.com/reza123dcm") 
