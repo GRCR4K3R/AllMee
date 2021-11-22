@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Jangan Recode Kontolllll
+
 
 clear
 sleep 1
