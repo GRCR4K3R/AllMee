@@ -10,5 +10,5 @@ Dan Silahkan pilih
 type python,python2,dan sh
 </code></pre>
 <code><pre>
-Nah ketik python2 install.py aja dulu ya itu udah lengkap terimakasih
+Nahh Itu Dia Script Saya emang script noob Ya:)
 </pre></code>
