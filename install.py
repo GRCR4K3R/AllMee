@@ -33,3 +33,4 @@ def menu():
                       = (+) Facebook   :Rzaa Ajaa                (+)=
                       = (+) Profil     :Stiker Pentol Itu gua!!  (+)=
                       ==============================================="""
+menu()
