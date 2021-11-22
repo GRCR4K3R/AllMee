@@ -29,7 +29,8 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 toilet -f big -F gay Rzaa Ajaa
-echo $purple"Stabilkan jaringan by Reza"
+toilet -f big -F gay By Reza Alfauzan
+echo $cyan "Sedang Mengstabilkan../Mohon Menunggu.."
 sleep 2
 ping -s1000 1.1.1.1
 fi
