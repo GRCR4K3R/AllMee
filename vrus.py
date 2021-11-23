@@ -57,7 +57,7 @@ def menu():
 
         try:
                 for i in range(jumlah):
-                        print "\033[34;1mMencoba \033[36;1mmengirim \033[33;1mVirus \033[35;1m\033[36;1mKe \033[36;1m=>",nomor
+                        print "\033[34;1mBerhasil \033[36;1mmengirim \033[33;1mVirus \033[35;1m\033[36;1mKe \033[36;1m=>",nomor
                         time.sleep(0.1)
         except KeyboardInterrupt:
                 print "\033[36;1m### \033[33;1mSelesai \033[32;1m###"
