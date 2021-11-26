@@ -32,8 +32,8 @@ def menu():
 
         head = {
         "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36",
-        "Referer": "https://www.mapclub.com/en/user/signup",
-        "Host": "cmsapi.mapclub.com",
+        "Referer": "https://www.pointblank.id/member/signup",
+        "Host": "pointblank.id",
         }
         
         dat = {
@@ -42,7 +42,7 @@ def menu():
         
         
         for x in range(int(jum)):
-                leosureo =requests.post("https://cmsapi.mapclub.com/api/signup-otp", headers=head, json=dat)
+                leosureo =requests.post("https://www.pointblank.id/member/signup", headers=head, json=dat)
         if 'error' in leosureo:
                 print('Gagal Mengirimn:)' + no)
         else:
