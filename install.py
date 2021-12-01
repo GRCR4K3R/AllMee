@@ -58,7 +58,16 @@ def menu():
                 os.system("figlet Tunggu / Wait")
                 os.system("pip2 install --upgrade pip")
                 os.system("clear")
-                os.system("figlet sukses")
+                os.system("figlet Sukses!")
+                logo = """
+                ======================================================
+                =+=>(+) Author : Reza Alfauzan                 (+)<=+=
+                =+=>(+) Github : GRCR4K3R                      (+)<=+=
+                =+=>(+) Jangan Di Recode Entar Error Bang      (+)<=+=
+                =+=>(+) Maaf Ya Gua masih noob:)               (+)<=+=
+                ======================================================
+                ******************************************************
+                
         if pilih ==2:
                 os.system("figlet Rzaa Ajaa")
                 logo = """
