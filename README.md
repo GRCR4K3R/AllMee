@@ -2,7 +2,7 @@
 <pre><code>
 $pkg install git
 $pkg install python2
-$git clone https://github.com/GRCR4K3R/AllMee
+$git clone https://github.com/Reza-XD/AllMee
 </code></pre>
 <pre><code>
 #Run Script
