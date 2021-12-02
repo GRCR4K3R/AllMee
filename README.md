@@ -2,7 +2,7 @@
 <pre><code>
 $pkg install git
 $pkg install python2
-$git clone https://github.com/Reza-XD/AllMee
+$git clone https://github.com/Reaper-XD/AllMee
 </code></pre>
 <pre><code>
 #Run Script
