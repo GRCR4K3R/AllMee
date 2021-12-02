@@ -36,22 +36,18 @@ if pilih =="1":
         angka1 =int(input("Angka Pertama :"))
         angka2 =int(input("Angka Kedua :"))
         print(angka1 + angka2)
-        time.sleep(2.0)
 #Data Pengurangan
 if pilih =="2":
         angka1 =int(input("Angka Pertama :"))
         angka2 =int(input("Angka Kedua : "))
         print(angka1 - angka2)
-        time.sleep(2.0)
 #Data Perkalian
 if pilih =="3":
         angka1 =int(input("Angka Pertama :"))
         angka2 =int(input("Angka Kedua :"))
         print(angka1 * angka2)
-        time.sleep(2.0)
 #Data Pembagian
 if pilih =="4":
         angka1 =int(input("Angka Pertama :"))
         angka2 =int(input("Angka Kedua :"))
         print(angka1 / angka2)
-        time.sleep(2.0)
